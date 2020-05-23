@@ -6,7 +6,7 @@ Things you may want to cover:
 
 * Ruby version
 
-Ruby '2.6.5'
+Ruby 2.6.5  
 Rails 6.0.3.1
 
 * System dependencies
@@ -22,11 +22,6 @@ Rails 6.0.3.1
       bundle exec rails stimulus_reflex:install
 
       bundle exec rails g scaffold Post username body likes_count:integer reposts_count:integer --no-jbuilder
-
-
-* Database creation
-
-* Database initialization
 
 * How to run the test suite
 
